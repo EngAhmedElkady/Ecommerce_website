@@ -1,0 +1,9 @@
+product:
+    name
+    desc
+    price
+    cost
+    img 
+    created
+    category
+    
